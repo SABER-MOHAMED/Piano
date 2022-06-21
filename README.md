@@ -1,6 +1,8 @@
 ## Virtual Piano 🎹
 
 Virtual piano built with HTML, CSS, and JavaScript. The piano keys can be played with the mouse or keyboard. The goal of this project was to practice DOM (Document Object Model) manipulation and event handling.
+---
+![preview](preview.png)
 
 ### Link
 
