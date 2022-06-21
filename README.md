@@ -4,7 +4,7 @@ Virtual piano built with HTML, CSS, and JavaScript. The piano keys can be played
 
 ### Link
 
-- Live project: [JavaScript Piano (GitHub Pages)](saber-piano.netlify.app)
+- Live project: [JavaScript Piano (GitHub Pages)](https://saber-piano.netlify.app)
 
 ### Technologies
 
