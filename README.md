@@ -4,7 +4,7 @@ Virtual piano built with HTML, CSS, and JavaScript. The piano keys can be played
 
 ### Link
 
-- Live project: [JavaScript Piano (GitHub Pages)](https://julianachagas.github.io/piano/)
+- Live project: [JavaScript Piano (GitHub Pages)](saber-piano.netlify.app)
 
 ### Technologies
 
@@ -30,11 +30,7 @@ Users are able to:
 
 ### Resources
 
-- [DOM MasterClass by Rocketseat](https://www.youtube.com/watch?v=UftSB4DaRU4&ab_channel=Rocketseat)
-
-- [Bubbling and capturing - JAVASCRIPT.INFO](https://javascript.info/bubbling-and-capturing)
-
-- [Event delegation - JAVASCRIPT.INFO](https://javascript.info/event-delegation)
+- [the-complete-javascript-course by Jonas schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 
 <br>
 
