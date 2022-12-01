@@ -30,12 +30,6 @@ Users are able to:
 - Event delegation
 - Mouse, keyboard, and CSS events
 
-### Resources
-
-- [the-complete-javascript-course by Jonas schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
-
-<br>
-
 ---
 
-##### Made with ❤ by Mohamed Saber
+##### Made with ❤ by @Saber
